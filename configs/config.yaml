@@ -1,0 +1,12 @@
+database:
+  driver: mysql
+  username: root
+  password: 1234test
+  host: localhost
+  port: 3306
+  dbname: employee-manager
+Logger:
+  "level": 5,
+  "console": yes
+env:
+  "state": test
